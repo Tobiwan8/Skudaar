@@ -1,0 +1,8 @@
+C:\Skole\Noter\Skudår\Skudår\bin\Debug\Skudår.exe.config
+C:\Skole\Noter\Skudår\Skudår\bin\Debug\Skudår.exe
+C:\Skole\Noter\Skudår\Skudår\bin\Debug\Skudår.pdb
+C:\Skole\Noter\Skudår\Skudår\obj\Debug\Skudår.csproj.AssemblyReference.cache
+C:\Skole\Noter\Skudår\Skudår\obj\Debug\Skudår.csproj.SuggestedBindingRedirects.cache
+C:\Skole\Noter\Skudår\Skudår\obj\Debug\Skudår.csproj.CoreCompileInputs.cache
+C:\Skole\Noter\Skudår\Skudår\obj\Debug\Skudår.exe
+C:\Skole\Noter\Skudår\Skudår\obj\Debug\Skudår.pdb
